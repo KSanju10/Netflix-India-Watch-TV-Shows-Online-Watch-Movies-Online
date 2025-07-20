@@ -13,7 +13,7 @@ This project is a responsive front-end **Netflix Landing Page Clone**, built usi
 
 ## 📸 Screenshot
 
-![Netflix Clone Screenshot](screenshot.png)
+![Netflix Clone Screenshot](assets/images/screenshot.png)
 
 ## Tech Stack
 
