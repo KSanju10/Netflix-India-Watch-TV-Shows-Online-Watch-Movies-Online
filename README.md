@@ -19,8 +19,7 @@ This project is a responsive front-end **Netflix Landing Page Clone**, built usi
 
 - HTML5  
 - CSS3 (Flexbox, Grid, Transitions)  
-- Responsive design  
-- Icons from [Icons8](https://icons8.com)
+- Responsive design.
 
 ## How to Run
 
@@ -31,7 +30,7 @@ This project is a responsive front-end **Netflix Landing Page Clone**, built usi
 2. Open the folder:
    cd netflix-clone
 
-3.	Open index.html in your browser.
+3. Open index.html in your browser.
 Make sure the assets folder (with images like bg.jpg, logo.svg, etc.) is included.
 
 Future Improvements
